@@ -188,7 +188,7 @@ body {
   font-size: 26px;
   line-height: 1.19;
   letter-spacing: 0.03em;
-  color: #000000;
+  color: #ffffff;
 }
 
 .footer-adress-link {
@@ -217,7 +217,7 @@ body {
 
 /* ------------------PORFOLIO-------------------- */
 
-.header-btn {
+.secondary-btn {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
@@ -226,9 +226,10 @@ body {
   color: var(--main-text-color);
 }
 
-.header-btn:hover,
-.header-btn:focus {
+.secondary-btn:hover,
+.secondary-btn:focus {
   background-color: var(--accent-color);
+  color: #ffffff;
 }
 
 .portfolio-item-title {
